@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+
+	"gihub.com/rudoyon/test_project/main/handlers/"
 )
 
 func main() {
